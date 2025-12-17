@@ -4,26 +4,7 @@
 
 ---
 
-## 🚀 Features
-
-- 🕒 **Customizable Timer** — Set and manage workout and rest durations.
-- ⚛️ **useEffect Mastery** — Demonstrates side effect management in React, such as timing and cleanup.
-- 🧠 **useMemo Optimization** — Uses memoization to efficiently compute derived values and prevent unnecessary re-renders.
-- 🔄 **Accurate Countdown Logic** — Smooth and precise timer updates.
-- 🎨 **Responsive UI** — Clean and minimal design for all screen sizes.
-
----
-
-## 🧠 Concepts Practiced
-
-- React state and effect management (`useState`, `useEffect`)
-- Memoization and performance tuning (`useMemo`)
-- Component lifecycle behavior
-- Time-based logic in React apps
-
----
-
-## 🛠️ Installation & Setup
+## 🧩 Installation
 
 1. **Clone the repository:**
 
@@ -50,7 +31,3 @@
    ```
 
 ---
-
-## 💪 Credits
-
-Built by following **Jonas Schmedtmann’s Ultimate React Course** — a great exercise for mastering React hooks and side effects. 🧩
